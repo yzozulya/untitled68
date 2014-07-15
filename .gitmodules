@@ -1,3 +1,6 @@
 [submodule "core"]
 	path = core
 	url = git://github.com/kohana/core.git
+[submodule "tgh2"]
+	path = tgh2
+	url = https://github.com/yzozulya/tgh2
